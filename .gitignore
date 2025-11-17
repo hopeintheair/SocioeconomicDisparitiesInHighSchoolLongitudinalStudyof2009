@@ -1,0 +1,5 @@
+# macOS metadata files
+.DS_Store
+
+# Raw HSLS dataset is >800MB, keep it local only
+PreliminaryDataAnalysis/hsls_17_student_pets_sr_v1_0.csv
